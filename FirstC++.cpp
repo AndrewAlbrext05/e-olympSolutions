@@ -10,5 +10,4 @@ int main() {
 	c = a % 10;
 
 	cout << b << " " << c;
-
 }
